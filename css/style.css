@@ -1,0 +1,28 @@
+body{
+    font-family: Rajdhani;
+    text-align: justify;
+    margin: 100px;
+    margin-top: 40px;
+}
+
+#dhnews{
+    color: rgb(218, 5, 5);
+    line-height: 15px;
+}
+
+#postado{
+    line-height: 0px;
+}
+
+#visual{
+    display: flex;
+    justify-content: center;
+}
+
+.sociais{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+
