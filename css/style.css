@@ -1,22 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap');
+
 body{
-    font-family: Rajdhani;
+    font-family: 'Rajdhani';
     text-align: justify;
     margin: 100px;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 #dhnews{
-    color: rgb(218, 5, 5);
-    line-height: 15px;
+    font-family: 'Rajdhani', sans-serif;
+    color: rgb(236, 5, 5);
+    line-height: 10px;
 }
 
 #postado{
+    font-family: 'Rajdhani', sans-serif;
     line-height: 0px;
 }
 
 #visual{
     display: flex;
-    justify-content: center;
+    justify-content: center;    
 }
 
 .sociais{
